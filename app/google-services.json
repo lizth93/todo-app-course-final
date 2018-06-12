@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "663137673906",
+    "firebase_url": "https://todoappclean-f0e2d.firebaseio.com",
+    "project_id": "todoappclean-f0e2d",
+    "storage_bucket": "todoappclean-f0e2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663137673906:android:ba81a4759f82d629",
+        "android_client_info": {
+          "package_name": "co.edu.ucc.todoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663137673906-g0r9igovf52lf2donqp57rk1aelun78m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.edu.ucc.todoapp",
+            "certificate_hash": "d5360ec35aa745d4f5fbc044c2e6ba98cd50e7bd"
+          }
+        },
+        {
+          "client_id": "663137673906-n2qflt53c5kd98c68gheeo6b1apoipor.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsjcd70NK0dH4osSP3dOvJElr9mTkDw4w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663137673906-n2qflt53c5kd98c68gheeo6b1apoipor.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

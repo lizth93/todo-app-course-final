@@ -1,0 +1,8 @@
+<root>
+    <item name='android.app.Activity mManagedDialogs'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+    <item name='android.app.UiAutomation'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>
